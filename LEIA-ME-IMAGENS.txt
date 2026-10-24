@@ -1,0 +1,37 @@
+ARQUIVOS DE IMAGENS — DANILO VENDAS
+
+Para substituir: salve a foto real em JPG com o MESMO NOME do arquivo da pasta assets/relogios/.
+Recomendado: imagem quadrada (1000 x 1000 px), formato JPG.
+Nao altere os nomes nem mova os arquivos.
+
+LISTA:
+DV-001 | CITIZEN | BN4021 – Altichron | citizen-bn4021-altichron.jpg
+DV-002 | CITIZEN | Tsuyosa 37 mm Rose – NJ0200-50Z | citizen-tsuyosa-37-mm-rose-nj0200-50z.jpg
+DV-003 | SEIKO | 5 Sports GMT – SSK036 | seiko-5-sports-gmt-ssk036.jpg
+DV-004 | SEIKO | 5 Sports Reduced 38 mm – 38MM | seiko-5-sports-reduced-38-mm-38mm.jpg
+DV-005 | SEIKO | 5 Sports Field Black – SSK023 | seiko-5-sports-field-black-ssk023.jpg
+DV-006 | SEIKO | 5 Sports Field – HDB001 | seiko-5-sports-field-hdb001.jpg
+DV-007 | SEIKO | 5 Sports Field – SSK059 | seiko-5-sports-field-ssk059.jpg
+DV-008 | SEIKO | 5 Sports GMT – SSK019 | seiko-5-sports-gmt-ssk019.jpg
+DV-009 | SEIKO | 5 Sports GMT – SSK033 | seiko-5-sports-gmt-ssk033.jpg
+DV-010 | SEIKO | 5 Sports 39 mm – SRPH29 | seiko-5-sports-39-mm-srph29.jpg
+DV-011 | SEIKO | Alpinist 6R35 – SPB117 | seiko-alpinist-6r35-spb117.jpg
+DV-012 | BULOVA | Classic – 96B392 | bulova-classic-96b392.jpg
+DV-013 | BULOVA | Latin Grammy – 96A335 | bulova-latin-grammy-96a335.jpg
+DV-014 | BULOVA | Open Aperture Automático 40 mm – 40MM | bulova-open-aperture-automatico-40-mm-40mm.jpg
+DV-015 | BULOVA | Automático 39 mm – 96B441 | bulova-automatico-39-mm-96b441.jpg
+DV-016 | BULOVA | Classic – 96B443 | bulova-classic-96b443.jpg
+DV-017 | BULOVA | Classic Sport – 98B438 | bulova-classic-sport-98b438.jpg
+DV-018 | BULOVA | Classic Wilton GMT – 96B385 | bulova-classic-wilton-gmt-96b385.jpg
+DV-019 | BULOVA | Crystal Day Black – 98K101 | bulova-crystal-day-black-98k101.jpg
+DV-020 | BULOVA | Hack Field Couro – 98A255 | bulova-hack-field-couro-98a255.jpg
+DV-021 | BULOVA | Hack Field Automático 38 mm – 38MM | bulova-hack-field-automatico-38-mm-38mm.jpg
+DV-022 | FREDERIQUE CONSTANT | 40 mm – FC-303NN5B6B | frederique-constant-40-mm-fc-303nn5b6b.jpg
+DV-023 | LONGINES | HydroConquest 39 mm – 39MM | longines-hydroconquest-39-mm-39mm.jpg
+DV-024 | HAMILTON | Khaki Field 38 mm – H69439910 | hamilton-khaki-field-38-mm-h69439910.jpg
+DV-025 | HAMILTON | Khaki Field Automático 38 mm – H70455133 | hamilton-khaki-field-automatico-38-mm-h70455133.jpg
+DV-026 | HAMILTON | Khaki Field Bronze – H69459510 | hamilton-khaki-field-bronze-h69459510.jpg
+DV-027 | HAMILTON | Khaki Field Murph Azul 38 mm – H70405140 | hamilton-khaki-field-murph-azul-38-mm-h70405140.jpg
+DV-028 | HAMILTON | Khaki Field Murph Azul 38 mm – H70405740 | hamilton-khaki-field-murph-azul-38-mm-h70405740.jpg
+DV-029 | HAMILTON | Murph 38 mm – H70405130 | hamilton-murph-38-mm-h70405130.jpg
+DV-030 | HAMILTON | Murph 38 mm – H70405730 | hamilton-murph-38-mm-h70405730.jpg

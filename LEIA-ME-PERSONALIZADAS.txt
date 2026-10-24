@@ -1,0 +1,19 @@
+DANILO VENDAS — IMAGENS PERSONALIZADAS
+
+10 imagens editadas sem logotipo da loja, em assets/relogios.
+20 imagens dos outros produtos continuam fotografias extraídas do catálogo.
+
+MODELOS COM IMAGENS PERSONALIZADAS:
+seiko-5-sports-gmt-ssk036.jpg
+seiko-alpinist-6r35-spb117.jpg
+citizen-bn4021-altichron.jpg
+citizen-tsuyosa-37-mm-rose-nj0200-50z.jpg
+bulova-classic-96b392.jpg
+bulova-classic-wilton-gmt-96b385.jpg
+hamilton-khaki-field-38-mm-h69439910.jpg
+hamilton-murph-38-mm-h70405730.jpg
+frederique-constant-40-mm-fc-303nn5b6b.jpg
+longines-hydroconquest-39-mm-39mm.jpg
+
+As fotos originais desses 10 modelos estão preservadas em assets/fotos-originais-10-modelos.
+IMPORTANTE: imagens geradas por IA são composições ilustrativas, podendo diferir do produto real. Para anúncios de venda, prefira as fotos originais.
